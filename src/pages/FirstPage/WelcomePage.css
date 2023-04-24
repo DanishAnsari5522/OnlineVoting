@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont,
+        'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu',
+        'Cantarell', 'Fira Sans', 'Droid Sans',
+        'Helvetica Neue', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    }
+    
+    code {
+    font-family: source-code-pro, Menlo,
+        Monaco, Consolas, 'Courier New',
+        monospace;
+    }
+    
+    #article {
+    margin-top: 1000px;
+    font-size: 3rem;
+    background-color: rgb(243, 124, 124);
+    font-weight: 800;
+    text-align: center;
+    padding: 80px;
+    border: 2px solid red;
+    margin-bottom: 500px;
+    }
+    
+    /* #course {
+    margin-top:500px;
+    border: 6px double green;
+    font-size: 3rem;
+    background-color: lightgreen;
+    font-weight: 800;
+    text-align: center;
+    padding: 80px;
+    } */
+
+    #testimonial{
+        /* padding:500px; */
+    }
+    
+    button {
+    font-size: 1.5rem;
+    padding: 10px 20px;
+    margin-right: 10px;
+    cursor:pointer;
+    }
+    
